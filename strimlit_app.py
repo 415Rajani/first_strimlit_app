@@ -1,4 +1,4 @@
-streamlit.header(fruityvice fruit Advice)
+streamlit.header(Fruityvice Fruit Advice)
 import pandas
 import streamlit
 import requests
